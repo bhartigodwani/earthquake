@@ -6,3 +6,6 @@ markdown: rdiscount
 highlighter: pigments
 permalink: pretty
 baseurl: "http://pnavarrc.github.io/earthquake"
+
+
+
